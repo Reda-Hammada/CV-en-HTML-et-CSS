@@ -1,0 +1,22 @@
+
+
+#im1 {
+
+    width: 200px;
+    height: 250px;
+}
+
+#hskills {
+
+    color: #f44336;
+}
+
+#heducation {
+
+    color: #f44336;
+}
+
+.listcontainer { 
+
+    list-style: none;
+}
